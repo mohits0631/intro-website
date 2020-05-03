@@ -93,8 +93,8 @@ a {
   width: 100px;
 }
 
-.img1 {
-  /* border-radius: 100%; */
+/* .img1 {
+  border-radius: 100%;
   float: left;
   width: 20%;
   margin-right: 60px;
@@ -103,6 +103,32 @@ a {
 .img2 {
   float: right;
   width: 25%;
+}
+.skill-row {
+  text-align: left;
+  width: 50%;
+  margin: 0 auto 0 auto;
+  line-height: 2;
+} */
+
+.img1 {
+  /* border-radius: 100%; */
+  /* float: left; */
+  width: 20%;
+  /* margin-right: 60px; */
+}
+
+.img2 {
+  /* float: right; */
+  width: 25%;
+  /* margin-left: 60px; */
+}
+
+.skill-row {
+  text-align: center;
+  width: 50%;
+  margin: 0 auto 0 auto;
+  line-height: 2;
 }
 
 .phoneimg {
@@ -135,12 +161,7 @@ a {
   width: 450px;
 }
 
-.skill-row {
-  text-align: left;
-  width: 50%;
-  margin: 0 auto 0 auto;
-  line-height: 2;
-}
+
 
 #myname {
   position: relative;
